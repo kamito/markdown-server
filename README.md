@@ -4,7 +4,7 @@
 
 Depends on
 
-* ruby
+* ruby >= 1.9
   * webrick
   * erb
 * rubygems
